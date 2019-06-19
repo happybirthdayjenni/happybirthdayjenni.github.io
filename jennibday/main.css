@@ -1,0 +1,28 @@
+.thumb {
+    width: 100%;
+    height: auto;
+}
+
+.bg-red {
+    background-color: rgb(255, 27, 27);
+}
+
+.bg-pink {
+    background-color: rgb(240, 111, 133);
+}
+
+.bg-lpink {
+    background-color: rgb(231, 187, 194)
+}
+
+.card {
+    border-radius: 0.5em;
+}
+
+img {
+    border-radius: 0;
+}
+
+.card img {
+    border-radius: 0.5em 0.5em 0 0;
+}
